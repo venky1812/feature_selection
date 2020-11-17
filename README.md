@@ -21,7 +21,10 @@ It includes my learning and useful information related to feature selection in m
 #### Linear Regression:
 
 
-> Points to remember while using **Linear Regression** for feature selection.
+> ##### Points to remember while using *Linear Regression* for feature selection.
+>
+> - THe magnitude of the coefficients is directly influenced by the scale of the features.
+
         
-                •
+ 
         
