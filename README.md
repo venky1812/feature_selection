@@ -17,3 +17,11 @@ It includes my learning and useful information related to feature selection in m
             • Tree Importance 
       
  ## Embedded Methods 
+
+#### Linear Regression:
+
+
+> Points to remember while using **Linear Regression** for feature selection.
+        
+                •
+        
