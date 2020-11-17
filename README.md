@@ -15,7 +15,7 @@ It includes my learning and useful information related to feature selection in m
         3. Embedded Methods
             • Lasso 
             • Tree Importance 
-      
+***   
  ## Embedded Methods 
 
 #### Linear Regression:
@@ -23,7 +23,11 @@ It includes my learning and useful information related to feature selection in m
 
 > ##### Points to remember while using *Linear Regression* for feature selection.
 >
-> - THe magnitude of the coefficients is directly influenced by the scale of the features.
+> - The magnitude of the coefficients is directly influenced by the scale of the features.
+> - *Linear Regression* model assumptions need to be met inorder to make fair comparison of the features by only using their regression coefficients.
+> - In addition these coefficients may be penalised by regularisation,therefore being smaller than if we were to compare only that individual feature with the target.
+> - **It is not a good choise for feature Selection.**
+
 
         
  
